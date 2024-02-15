@@ -8,6 +8,8 @@ This challenge is designed to test your skills in building React Native UI compo
 
 Create a React Native UI Component that mimics the screen as shown in the image below. Focus on replicating the design details, including layout, color scheme, and typography.
 
+Choose at least 1 of the 3 screens below to build:
+
 ![image](./image.png) *(Design credit: [Dribbble](https://dribbble.com/shots/20172721-Mobile-Wallet-Ispolink-Job-Platform-Mobile-UI-Design))*
 
 ## Requirements
@@ -17,6 +19,9 @@ Create a React Native UI Component that mimics the screen as shown in the image 
 
 ## Submission Guidelines
 
-DO NOT fork this repo. Please submit your code by email or messaging your hiring manager. Include a README in your project that explains how to run your React Native app. 
+- Submit at least 1 screen, but can do more as bonus 
+- DO NOT fork this repo.
+- Please submit your code by email or messaging your hiring manager.
+- Include a README in your project that explains how to run your React Native app. 
 
 Good luck, and we're looking forward to seeing your implementation!
